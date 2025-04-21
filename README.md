@@ -1,0 +1,1 @@
+Développement d'un blog interactif en PHP avec connexion à une base de données MySQL, permettant aux utilisateurs de créer un compte, publier des articles, laisser des commentaires et gérer leur contenu. 
